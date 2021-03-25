@@ -1,0 +1,7 @@
+C:\Users\justi\Desktop\Basic_C#_Programs\MathOpAssignment\MathOpAssignment\bin\Debug\MathOpAssignment.exe.config
+C:\Users\justi\Desktop\Basic_C#_Programs\MathOpAssignment\MathOpAssignment\bin\Debug\MathOpAssignment.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\MathOpAssignment\MathOpAssignment\bin\Debug\MathOpAssignment.pdb
+C:\Users\justi\Desktop\Basic_C#_Programs\MathOpAssignment\MathOpAssignment\obj\Debug\MathOpAssignment.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\MathOpAssignment\MathOpAssignment\obj\Debug\MathOpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\MathOpAssignment\MathOpAssignment\obj\Debug\MathOpAssignment.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\MathOpAssignment\MathOpAssignment\obj\Debug\MathOpAssignment.pdb
