@@ -1,0 +1,7 @@
+C:\Users\justi\Desktop\Basic_C#_Programs\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\justi\Desktop\Basic_C#_Programs\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\justi\Desktop\Basic_C#_Programs\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\Methods\Methods\obj\Debug\Methods.pdb
