@@ -1,0 +1,7 @@
+C:\Users\justi\Desktop\Basic_C#_Programs\AllinOne\AllinOne\bin\Debug\AllinOne.exe.config
+C:\Users\justi\Desktop\Basic_C#_Programs\AllinOne\AllinOne\bin\Debug\AllinOne.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\AllinOne\AllinOne\bin\Debug\AllinOne.pdb
+C:\Users\justi\Desktop\Basic_C#_Programs\AllinOne\AllinOne\obj\Debug\AllinOne.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\AllinOne\AllinOne\obj\Debug\AllinOne.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\AllinOne\AllinOne\obj\Debug\AllinOne.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\AllinOne\AllinOne\obj\Debug\AllinOne.pdb
