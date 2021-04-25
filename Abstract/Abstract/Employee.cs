@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    public class Employee<T> : Person, IQuittable
+    public class Employee : Person, IQuittable
     {
-        List<T> things = new List<T>();
 
         public override void SayName()
         {
