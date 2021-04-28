@@ -14,6 +14,10 @@ namespace Abstract
             employee.SayName();
             Console.ReadLine();
 
+            IQuittable quit = new Employee() { firstName = "Justin", lastName = "Seymour" };
+            quit.Quit();
+            Console.ReadLine();
+
         }
     }
 }
