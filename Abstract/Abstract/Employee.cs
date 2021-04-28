@@ -17,5 +17,28 @@ namespace Abstract
         {
             Console.WriteLine("{0} {1} quits the game", firstName, lastName);
         }
+
+        public static bool operator ==(Employee emp1, Employee emp2)
+        {
+            if (emp1.EmpID == emp2.EmpID)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator !=(Employee emp1, Employee emp2)
+        {
+            if (emp1.EmpID != emp2.EmpID)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public int EmpID { get; set; }
     }
 }
