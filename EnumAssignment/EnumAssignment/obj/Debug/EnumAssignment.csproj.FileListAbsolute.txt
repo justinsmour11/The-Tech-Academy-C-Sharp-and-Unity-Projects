@@ -1,0 +1,7 @@
+C:\Users\justi\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe.config
+C:\Users\justi\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\EnumAssignment.pdb
+C:\Users\justi\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csprojAssemblyReference.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.exe
+C:\Users\justi\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\EnumAssignment.pdb
